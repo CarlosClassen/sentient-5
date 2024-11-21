@@ -1,0 +1,23 @@
+{
+    "openness": [
+      "What is something new you've tried recently?",
+      "If you could live anywhere in the world, where would it be?"
+    ],
+    "conscientiousness": [
+      "How do you usually approach long-term goals?",
+      "Do you prefer routines or flexibility in your day?"
+    ],
+    "extraversion": [
+      "Do you enjoy being the center of attention in social settings?",
+      "What’s your ideal way to spend a weekend?"
+    ],
+    "agreeableness": [
+      "How do you usually handle disagreements with others?",
+      "What’s the best way to build trust in a relationship?"
+    ],
+    "neuroticism": [
+      "How do you usually deal with stress or unexpected changes?",
+      "Would you describe yourself as calm or easily worried?"
+    ]
+  }
+  
