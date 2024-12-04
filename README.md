@@ -1,12 +1,16 @@
+```
+███████╗███████╗███╗   ██╗████████╗██╗███████╗███╗   ██╗████████╗   ███████╗
+██╔════╝██╔════╝████╗  ██║╚══██╔══╝██║██╔════╝████╗  ██║╚══██╔══╝   ██╔════╝
+███████╗█████╗  ██╔██╗ ██║   ██║   ██║█████╗  ██╔██╗ ██║   ██║█████╗███████╗
+╚════██║██╔══╝  ██║╚██╗██║   ██║   ██║██╔══╝  ██║╚██╗██║   ██║╚════╝╚════██║
+███████║███████╗██║ ╚████║   ██║   ██║███████╗██║ ╚████║   ██║      ███████║
+╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝      ╚══════╝
+```
 
 
-# Sentient-5  
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)  
-![DeepFace](https://img.shields.io/badge/DeepFace-Emotion_Engine-yellow?style=flat-square)  
-![Ollama](https://img.shields.io/badge/LLM-Ollama_Required-red?style=flat-square)  
-![Status](https://img.shields.io/badge/Status-Experimental-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)  ![DeepFace](https://img.shields.io/badge/DeepFace-Emotion_Engine-yellow?style=flat-square)  ![Ollama](https://img.shields.io/badge/LLM-Ollama_Required-red?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Experimental-orange?style=flat-square)
 
-### **Emotion in silico. Insight, or intrusion?**  
+### **Emotion in silico - insight, or intrusion?**  
 
 ## **Features**  
 
